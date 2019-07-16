@@ -1,0 +1,14 @@
+/Users/selcukitmis/Works/github/RN-signalR/WebApi/bin/Debug/netcoreapp2.2/WebApi.deps.json
+/Users/selcukitmis/Works/github/RN-signalR/WebApi/bin/Debug/netcoreapp2.2/WebApi.runtimeconfig.json
+/Users/selcukitmis/Works/github/RN-signalR/WebApi/bin/Debug/netcoreapp2.2/WebApi.runtimeconfig.dev.json
+/Users/selcukitmis/Works/github/RN-signalR/WebApi/bin/Debug/netcoreapp2.2/WebApi.dll
+/Users/selcukitmis/Works/github/RN-signalR/WebApi/bin/Debug/netcoreapp2.2/WebApi.pdb
+/Users/selcukitmis/Works/github/RN-signalR/WebApi/obj/Debug/netcoreapp2.2/WebApi.csprojAssemblyReference.cache
+/Users/selcukitmis/Works/github/RN-signalR/WebApi/obj/Debug/netcoreapp2.2/WebApi.csproj.CoreCompileInputs.cache
+/Users/selcukitmis/Works/github/RN-signalR/WebApi/obj/Debug/netcoreapp2.2/WebApi.RazorAssemblyInfo.cache
+/Users/selcukitmis/Works/github/RN-signalR/WebApi/obj/Debug/netcoreapp2.2/WebApi.RazorAssemblyInfo.cs
+/Users/selcukitmis/Works/github/RN-signalR/WebApi/obj/Debug/netcoreapp2.2/WebApi.AssemblyInfoInputs.cache
+/Users/selcukitmis/Works/github/RN-signalR/WebApi/obj/Debug/netcoreapp2.2/WebApi.AssemblyInfo.cs
+/Users/selcukitmis/Works/github/RN-signalR/WebApi/obj/Debug/netcoreapp2.2/WebApi.RazorTargetAssemblyInfo.cache
+/Users/selcukitmis/Works/github/RN-signalR/WebApi/obj/Debug/netcoreapp2.2/WebApi.dll
+/Users/selcukitmis/Works/github/RN-signalR/WebApi/obj/Debug/netcoreapp2.2/WebApi.pdb
